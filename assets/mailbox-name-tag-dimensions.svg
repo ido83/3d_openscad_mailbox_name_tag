@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+  <rect width="1000" height="520" rx="24" fill="#ffffff"/>
+  <g transform="translate(100 130)">
+    <rect x="0" y="0" width="800" height="280" rx="40" fill="#edf1f5" stroke="#263747" stroke-width="5"/>
+    <rect x="16" y="16" width="768" height="248" rx="34" fill="none" stroke="#263747" stroke-width="8"/>
+    <circle cx="72" cy="140" r="28" fill="#ffffff" stroke="#263747" stroke-width="6"/>
+    <circle cx="728" cy="140" r="28" fill="#ffffff" stroke="#263747" stroke-width="6"/>
+    <text x="400" y="147" text-anchor="middle" font-family="Liberation Sans, Arial, sans-serif" font-size="48" font-weight="700" fill="#183153">משפחת ישראלי</text>
+  </g>
+  <line x1="100" y1="95" x2="900" y2="95" stroke="#e11d48" stroke-width="4"/>
+  <line x1="100" y1="82" x2="100" y2="108" stroke="#e11d48" stroke-width="4"/>
+  <line x1="900" y1="82" x2="900" y2="108" stroke="#e11d48" stroke-width="4"/>
+  <text x="500" y="78" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#e11d48">100 mm</text>
+  <line x1="75" y1="130" x2="75" y2="410" stroke="#2563eb" stroke-width="4"/>
+  <line x1="62" y1="130" x2="88" y2="130" stroke="#2563eb" stroke-width="4"/>
+  <line x1="62" y1="410" x2="88" y2="410" stroke="#2563eb" stroke-width="4"/>
+  <text x="36" y="280" text-anchor="middle" transform="rotate(-90 36 280)" font-family="Arial, sans-serif" font-size="28" fill="#2563eb">35 mm</text>
+  <text x="172" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#263747">Hole offset: 9 mm</text>
+  <line x1="172" y1="270" x2="172" y2="438" stroke="#263747" stroke-width="2" stroke-dasharray="8 8"/>
+  <text x="828" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#263747">Hole offset: 9 mm</text>
+  <line x1="828" y1="270" x2="828" y2="438" stroke="#263747" stroke-width="2" stroke-dasharray="8 8"/>
+</svg>

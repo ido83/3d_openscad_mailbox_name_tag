@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <rect width="1000" height="420" rx="24" fill="#f4f7fb"/>
+  <g transform="translate(100 90)">
+    <rect x="0" y="0" width="800" height="280" rx="40" fill="#dfe6ed" stroke="#9aa7b3" stroke-width="6"/>
+    <rect x="24" y="24" width="752" height="232" rx="34" fill="none" stroke="#1f2937" stroke-width="12"/>
+    <circle cx="72" cy="140" r="28" fill="#f4f7fb" stroke="#1f2937" stroke-width="8"/>
+    <circle cx="728" cy="140" r="28" fill="#f4f7fb" stroke="#1f2937" stroke-width="8"/>
+    <text x="400" y="155" text-anchor="middle" direction="rtl" font-family="Liberation Sans, Arial, sans-serif" font-size="74" font-weight="700" fill="#183153">משפחת ישראלי</text>
+  </g>
+</svg>

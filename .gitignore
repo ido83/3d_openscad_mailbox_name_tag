@@ -6,8 +6,7 @@
 *.csg
 *.gcode
 *.stl
-*.svg
-*.png
+
 
 # OpenSCAD temporary/cache files
 *.tmp
