@@ -7,7 +7,7 @@
 // First line (e.g. family name)
 line1 = "משפחת נדלר";
 // Second line (leave empty for a single line)
-line2 = "דירה 9";
+line2 = "";
 // Font - use any installed font. For Hebrew try "Arial:style=Bold", "David Libre", "Rubik:style=Bold"
 font_name = "Liberation Sans:style=Bold";
 // Line 1 text height (mm)
@@ -37,7 +37,8 @@ border_width = 1.5;
 border_inset = 2;
 
 /* [Mounting] */
-mount_type = "screw holes"; // [screw holes, none (adhesive)]
+// Enable screw mounting holes
+add_holes = false;
 // Screw shaft diameter (mm)
 hole_diameter = 3.5;
 // Countersink head diameter (0 = no countersink)
@@ -55,7 +56,7 @@ eps = 0.01;
 
 // ---------- derived values ----------
 has_line2 = len(line2) > 0;
-has_holes = mount_type == "screw holes";
+has_holes = add_holes;
 // Usable text width - leave room for border and holes
 text_area_w = plate_width
               - 2 * (add_border ? border_inset + border_width + 2 : 3)

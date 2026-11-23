@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# OpenSCAD exports
+*.3mf
+*.csg
+*.gcode
+*.stl
+*.svg
+*.png
+
+# OpenSCAD temporary/cache files
+*.tmp
