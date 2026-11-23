@@ -5,7 +5,7 @@
 
 /* [Text] */
 // First line (e.g. family name)
-line1 = "משפחת נדלר";
+line1 = "משפחת ישראלי";
 // Second line (leave empty for a single line)
 line2 = "";
 // Font - use any installed font. For Hebrew try "Arial:style=Bold", "David Libre", "Rubik:style=Bold"
